@@ -1,7 +1,7 @@
 let nombreAlumno = prompt("Cual es tu nombre?");
 
 alert(
-  "Inserta las siguientes calificaciones, calificacion menor 0 califciacion mayor  10:"
+  "Inserta las siguientes calificaciones, calificación menor o calificiación mayor  10:"
 );
 let notaInformatica, notaRedes, notaMatematicas;
 
