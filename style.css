@@ -1,0 +1,22 @@
+body {
+  background-color: #ffffff;
+}
+
+.titleText {
+  color: #f56d91;
+  text-align: center;
+}
+
+h2 {
+  color: #524a4e;
+  text-align: center;
+  font-size: 4rem;
+}
+
+h3 {
+  color: #8d8daa;
+  text-align: center;
+  padding-top: 2.5rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
